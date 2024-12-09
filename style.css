@@ -108,7 +108,7 @@ nav{
     color: #fff;
 }
 
-------------------------- Features Start---------------------------
+/*------------------------- Features Start---------------------------*/
 
 .features{
     width: 100%;
@@ -175,7 +175,7 @@ nav{
     background-image: url(images/feature-4.png);
 }
 
-------------------------- Questions---------------------------
+/*------------------------- Questions---------------------------*/
 
 .questions{
     padding: 10px 12%;
@@ -233,7 +233,7 @@ input[type="radio"]{
     margin: 20px auto 60px;
 }
 
-------------------------- Footer---------------------------
+/*------------------------- Footer---------------------------*/
 .footer{
     padding: 50px 15% 10px;
     color:#777;
@@ -276,7 +276,7 @@ input[type="radio"]{
     margin-bottom: 10px;
 }
 
-------------------------- Media Querys---------------------------
+/*------------------------- Media Querys---------------------------*/
 
 @media only screen and (max-width: 600px){
     .logo{
